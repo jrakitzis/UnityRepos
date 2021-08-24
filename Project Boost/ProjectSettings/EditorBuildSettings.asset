@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Fly Under.unity
+    guid: 390d895c49966804281361ed8278c5f9
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 148dd225ad926024e9f80dc14c031474
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: b6006784f62faf64eb4e4efa9f9c85ae
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: cbf1c3e85818e6e4f8e65897b7960281
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: d38f1cea191ff8d498fe61b779b43220
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: b8d3c44f8175ce94ebca44522811ba82
   m_configObjects: {}
